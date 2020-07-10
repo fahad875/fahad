@@ -1,0 +1,39 @@
+#fahad {  
+    font-size: 25px;
+    border-left: 6px solid red;
+    background-color:lightgrey;
+    text-align: center;
+    color:darkred;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+h2 {
+    background-color: whitesmoke;
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 28px;
+    
+}
+h3 {
+    color:white;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif    
+    
+}
+p { 
+    
+    color: whitesmoke;
+    font-size: 20px;
+    font-family:cursive;
+    font-style: initial;
+}
+#navigator {
+    background-image: url(3.jpg), url(3.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#pinapple {
+    float: right
+}
